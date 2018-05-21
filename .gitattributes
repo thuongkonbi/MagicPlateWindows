@@ -90,3 +90,4 @@
 *.nswag filter=lfs diff=lfs merge=lfs -text
 *.Config filter=lfs diff=lfs merge=lfs -text
 *.xml filter=lfs diff=lfs merge=lfs -text
+*.htacess filter=lfs diff=lfs merge=lfs -text
