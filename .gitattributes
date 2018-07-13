@@ -93,3 +93,4 @@
 *.htacess filter=lfs diff=lfs merge=lfs -text
 *.dockerignore filter=lfs diff=lfs merge=lfs -text
 *.dcproj filter=lfs diff=lfs merge=lfs -text
+*.job filter=lfs diff=lfs merge=lfs -text
