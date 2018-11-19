@@ -124,3 +124,4 @@
 *.ico~HEAD filter=lfs diff=lfs merge=lfs -text
 *.gitattributes~3b2bb954060976e2aefc2f886a6ea58cef60a008 filter=lfs diff=lfs merge=lfs -text
 *.gitattributes~HEAD filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
