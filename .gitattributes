@@ -133,3 +133,7 @@
 *.cd filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.nlp filter=lfs diff=lfs merge=lfs -text
+*.targets filter=lfs diff=lfs merge=lfs -text
+*.asax filter=lfs diff=lfs merge=lfs -text
+*.otf filter=lfs diff=lfs merge=lfs -text
+*.manifest filter=lfs diff=lfs merge=lfs -text
